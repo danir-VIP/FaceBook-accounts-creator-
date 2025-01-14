@@ -1,9 +1,9 @@
 # FaceBook-accounts-creator-
  FaceBook Accounts Creator Using Mobile API And Requests  last version 
  
- contact telegram https://t.me/danirusa
+ contact telegram https://t.me/daniruee
 
- telegram chanel https://t.me/toolsgit
+ telegram chanel https://t.me/toolsgi
 
 
 #FaceBook-accounts-creator-
